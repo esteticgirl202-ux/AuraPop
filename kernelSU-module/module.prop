@@ -1,0 +1,6 @@
+id=aurapop_boot
+name=AuraPop Boot Helper
+version=0.1.0
+versionCode=1
+author=Nazar / AuraPop
+description=Boot-time app-op setup and autostart helper for AuraPop
